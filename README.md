@@ -1,2 +1,2 @@
 # random-joke-machine
-This is a webapp that display random jokes and giphy of Chuck Knorris.
+Random joke machine spits out random joke and giphy of Chuck Knorris. You can get next random quote and giphy by clicking a button. You can also tweet out the quote if you like. 
